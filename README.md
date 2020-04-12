@@ -1,0 +1,2 @@
+# kintone
+kintoneに関するあれこれ。
